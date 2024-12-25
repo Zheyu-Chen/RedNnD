@@ -19,11 +19,11 @@ We provide three processed datasets: **Baby, Sports, Office**. These three datas
 
 ## Training
 
-The model is based on [MMRec](https://github.com/enoche/MMRec) framework, and the code can be directly embedded into the framework to run. Thanks for their work.
+The model is based on [MMRec](https://github.com/enoche/MMRec) framework, and the code can be directly embedded into the framework to run.
 
 ## Performance Comparison
 
-![image-20241225225124708](pic\performance.png)
+<img src="pic\performance.png"/>
 
 ## Citing RedNnD
 
