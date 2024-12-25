@@ -23,7 +23,7 @@ The model is based on [MMRec](https://github.com/enoche/MMRec) framework, and th
 
 ## Performance Comparison
 
-![image-20241225225124708](C:\Users\AORUS\Desktop\RedNnD\README\image-20241225225124708.png)
+![image-20241225225124708](pic\performance.png)
 
 ## Citing RedNnD
 
