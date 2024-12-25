@@ -1,4 +1,4 @@
-# [ICASSP'25] Don't Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network
+# Don't Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network
 
 
 
@@ -15,11 +15,14 @@ This is the Pytorch implementation for our RedNnD paper:
 
 ## Dataset
 
-We provide three processed datasets: **Baby, Sports, Office**. These three datasets' contents are in the `data/` folder.
+We provide three datasets: **Baby, Sports, Office**. These three datasets' contents are in the `data/` folder.
 
 ## Training
 
-The model is based on [MMRec](https://github.com/enoche/MMRec) framework, and the code can be directly embedded into the framework to run.
+  ```
+cd ./src
+python main.py
+  ```
 
 ## Performance Comparison
 
@@ -44,5 +47,5 @@ The code is released for academic research use only. For commercial use, please 
 
 ## Acknowledgement
 
-The structure of this code is  based on [MMRec](https://github.com/enoche/MMRec). Thank for their work.
+The structure of this code is based on [MMRec](https://github.com/enoche/MMRec). Thanks for their work.
 
