@@ -30,7 +30,7 @@ python main.py
 
 ## Citing RedNnD
 
-If you find RedNnD useful in your research, please consider citing our [paper]().
+If you find RedNnD useful in your research, please consider citing our [paper](https://arxiv.org/abs/2412.18962).
 
 ```
 @inproceedings{chen2025rednnd,
